@@ -1,4 +1,4 @@
-#Create node at level - 1
+# Create node at level - 1
 
 ``` cypher
 MATCH (root:fashion_items {name: 'root'})
