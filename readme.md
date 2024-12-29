@@ -24,7 +24,7 @@ return material
 
 ``` cypher
 create
-(n:fashion_items 
+(n:root 
 {
     name : 'root'
 }
